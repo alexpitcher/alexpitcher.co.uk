@@ -1,53 +1,66 @@
-# Netlify Developer Portfolio Starter (auto-annotated)
+# AlexPitcher.co.uk
 
-![Developer Portfolio](https://assets.stackbit.com/docs/personal-nextjs-starter-thumb.png)
+Welcome to the repository for [AlexPitcher.co.uk](https://alexpitcher.co.uk), a personal website showcasing blog posts, projects, and contact information.
 
-This is a full-fledged portfolio website built with Next.js, Tailwind CSS, [visual editor](https://docs.netlify.com/visual-editor/overview/) and the [Git Content Source](https://docs.netlify.com/create/content-sources/git/).
+## Overview
 
-The codebase showcases **how to apply annotations at scale**, meaning: how to make much of your components [highlightable in the visual editor](https://docs.netlify.com/visual-editor/visual-editing/inline-editor/) through data attributes without manually adding code throughout the codebase.
+AlexPitcher.co.uk is a personal website designed to share blog posts, showcase projects, and provide contact information. The site is built using Next.js and Tailwind CSS, and is deployed on Netlify.
 
-**This is achieved by:**
+## Key Features
 
-1. Adding an annotation property to the content objects at they're loaded (see `src/utils/content.ts`)
-1. When rendering the page, each content sub-object is dynamically matched to the appropriate component. At this point, wrap each component with an annotation, based on the abovementioned content property. See `src/components/components-registry.tsx`.
+- **Blog**: A collection of blog posts on various topics.
+- **Projects**: A showcase of personal and professional projects.
+- **Contact**: A contact form to get in touch.
+- **Links**: Provides links to Plex, Overseerr, and the status page.
 
-**⚡ Demo:** [auto-annotated-portfolio.netlify.app](https://auto-annotated-portfolio.netlify.app)
+## Blog
 
-## Deploying to Netlify
+The blog section contains a variety of posts on different topics. You can read the latest posts [here](https://alexpitcher.co.uk/blog).
 
-If you click "Deploy to Netlify" button, it will create a new repo for you that looks exactly like this one, and sets that repo up immediately for deployment on Netlify.
+## Projects
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/netlify-templates/auto-annotated-portfolio)
+The projects section showcases personal and professional projects. You can view the projects [here](https://alexpitcher.co.uk/projects).
 
-## Getting Started
+## Contact
 
-The typical development process is to begin by working locally. Clone this repository, then run `npm install` in its root directory.
+If you would like to get in touch, please visit the [contact page](https://alexpitcher.co.uk/contact).
 
-Run the Next.js development server:
+## Local Development
 
-```txt
-cd auto-annotated-portfolio
+To set up the project locally, follow these steps:
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/alexpitcher/alexpitcher.co.uk.git
+cd alexpitcher.co.uk
+```
+
+2. Install dependencies:
+
+```bash
+npm install
+```
+
+3. Run the development server:
+
+```bash
 npm run dev
 ```
 
-Install the [Netlify visual editor CLI](https://www.npmjs.com/package/@stackbit/cli). Then open a new terminal window in the same project directory and run the Netlify visual editor dev server:
+4. Open your browser and visit `http://localhost:3000` to see the site.
 
-```txt
-npm install -g @stackbit/cli
-stackbit dev
-```
+## Deployment
 
-This outputs your own Netlify visual editor URL. Open this, register or sign in, and you will be directed to Netlify's visual editor for your new project.
+The site is deployed on Netlify. To deploy your own version, follow these steps:
 
-![Next.js Dev + Netlify visual editor dev](https://assets.stackbit.com/docs/next-dev-stackbit-dev.png)
+1. Fork the repository and clone it to your local machine.
+2. Make any necessary changes to the code.
+3. Push the changes to your forked repository.
+4. Connect your repository to Netlify and deploy the site.
 
-## Next Steps
+For more detailed instructions, refer to the [Netlify documentation](https://docs.netlify.com/).
 
-Here are a few suggestions on what to do next if you're new to Netlify Visual Editor:
+## License
 
-- Learn [how Netlify Visual Editor works](https://docs.netlify.com/visual-editor/overview/)
-- Check [Netlify visual editor reference documentation](https://visual-editor-reference.netlify.com/)
-
-## Support
-
-If you get stuck along the way, get help in our [support forums](https://answers.netlify.com/).
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
