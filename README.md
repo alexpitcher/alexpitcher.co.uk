@@ -59,7 +59,20 @@ The site is deployed on Netlify. To deploy your own version, follow these steps:
 3. Push the changes to your forked repository.
 4. Connect your repository to Netlify and deploy the site.
 
-For more detailed instructions, refer to the [Netlify documentation](https://docs.netlify.com/).
+
+## Dependencies
+
+This project uses the following dependencies:
+
+- `@stackbit/cms-git`: For managing content with Stackbit.
+- `@stackbit/types`: For Stackbit type definitions.
+- `typescript`: For static type checking.
+- `eslint`: For code linting.
+- `prettier`: For code formatting.
+- `tailwindcss`: For styling.
+- `dayjs`: For date manipulation.
+- `markdown-to-jsx`: For rendering markdown content.
+- `react-syntax-highlighter`: For syntax highlighting in code blocks.
 
 ## License
 
