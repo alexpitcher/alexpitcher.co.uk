@@ -66,7 +66,7 @@ sections:
       text:
         textAlign: center
   - type: TextSection
-    colors: colors-c
+    colors: colors-f
     variant: variant-a
     title: Education
     subtitle: ''
