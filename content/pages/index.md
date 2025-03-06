@@ -13,7 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: ALEXPITCHER.CO.UK Home
+    title: ALEX pitcher portfolio
     subtitle: Website!
     styles:
       self:
