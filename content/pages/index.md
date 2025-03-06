@@ -14,7 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: ALEX pitcher portfolio
-    subtitle: Website!
+    subtitle: Welcome to my portfolio
     styles:
       self:
         height: auto
