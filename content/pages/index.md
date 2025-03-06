@@ -47,13 +47,7 @@ sections:
     variant: variant-a
     title: Skills
     subtitle: ''
-    text: >-
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-      Sed ut perspiciatis undeomnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+    text: "Networking & IT Infrastructure\n\n\t•\tExperience with modern Cisco equipment, Cisco IOS, OSPFv2, router and switch configuration\n\n\t•\tExperience with modern HPE networking equipment, Aruba Gateways, AOS-S, AOS-CX and Comware based switches, ArubaOS 8 & 10 Access Points, routing protocols, and modern cloud-based network configuration\n\n\t•\tPractical lab skills including Linux, firewall configurations, Windows directories/domains, certificate authorities, and remote VDI\n\n\t•\tExpertise in cutting-edge network technologies (WiFi 7, Private 5G, SD-WAN)\n\n\t•\tProficiency in cloud networking: deploying and managing solutions on Oracle Cloud, Google Cloud, and AWS\n\n\t•\tSystem administration: deploying, configuring, and maintaining enterprise server and infrastructure equipment\n\n\t•\tExperience in network auditing, upgrading IT systems, and network automation using tools such as Ansible and Terraform\n\n\n\nProgramming & Automation\n\n\t•\tStrong Python background (from early education to university), with secure coding practices and automation projects (e.g., smart home systems)\n\n\t•\tFamiliarity with C and C++\n\n\t•\tApplication of programming skills to network automation and infrastructure deployment\n\n\nCommunication & Project Management\n\n\t•\tClient interaction and project scoping to design and deliver tailored network solutions\n\n\t•\tExperience in managing projects from initial design through post-implementation reviews\n\n\t•\tInvolvement in sales efforts and client-facing demonstrations, including working with channel organisations\n\n\nPractical & Technical Abilities\n\n\t•\tHands-on skills demonstrated through personal projects (e.g., designing, fabricating, and painting wooden planters; exterior painting projects)\n\n\t•\tTechnical theatre experience: lighting design, sound operations, and technical management for productions and freelance work\n\n\n\nLanguage Skills\n\n\t•\tProficiency in French (studied since a young age and practiced in real-world settings)\n\n\n\n\n"
     elementId: ''
     styles:
       self:
