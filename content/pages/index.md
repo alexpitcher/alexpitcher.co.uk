@@ -69,7 +69,7 @@ sections:
     colors: colors-d
     variant: variant-b
     title: Education
-    subtitle: The section subtitle
+    subtitle: ''
     text: "## GCSE GRADES:\n\n10 GCSEs, including Maths and English at Grade 7\n\n## A LEVEL GRADES:\n\nOCR Computer Science: A\n\nOCR Mathematics: C\n\nAQA French: D\n\n## Education\n\n#### 2022 – Present\n\nDe Montfort University – Computer Networks and Security (BSc)\n\n•\tPursued a BSc in Computer Networks and Security blending networks, security, and programming\n\n•\tCompleted specialised Cisco-aligned networking modules covering various Cisco certifications\n\n•\tGained practical experience through state-of-the-art labs designed in collaboration with Cisco\n\n•\tEnhanced skills in secure coding, network development, and cyber security through lectures, seminars, and lab work\n\n•\tPrepared for diverse roles in the field of computer networks and security\n\n#### 2011 – 2022\n\nKing Henry VIII School\nYEAR 4 – YEAR 11\n\n#### \_\n2009 – 2011\n\nStivichall Primary School\nRECEPTION – YEAR 3\n"
     elementId: ''
     styles:
