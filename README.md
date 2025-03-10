@@ -2,6 +2,10 @@
 
 Welcome to the repository for [AlexPitcher.co.uk](https://alexpitcher.co.uk), a personal website showcasing blog posts, projects, and contact information.
 
+## Status
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/b2773d58-23cd-44bf-9214-28f5701183b7/deploy-status)](https://app.netlify.com/sites/alexpitcher/deploys)
+
 ## Overview
 
 AlexPitcher.co.uk is a personal website designed to share blog posts, showcase projects, and provide contact information. The site is built using Next.js and Tailwind CSS, and is deployed on Netlify.
