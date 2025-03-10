@@ -90,7 +90,7 @@ sections:
         textAlign: left
   - type: ContactSection
     colors: colors-f
-    backgroundSize: inset
+    backgroundSize: full
     title: Contact
     form:
       type: FormBlock
